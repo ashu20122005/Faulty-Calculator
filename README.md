@@ -25,12 +25,6 @@ To simulate real-world scenarios where sensors or machines introduce errors and 
 ✔ **Faulty Mode:** Random error injection (10% probability)  
 ✔ Fun and unpredictable results!  
 
----
-
-## 📸 Preview  
-
-
----
 
 ## ▶️ Live Demo  
  https://ashu20122005.github.io/Faulty-Calculator/
