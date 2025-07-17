@@ -33,7 +33,8 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/faulty-calculator.git
+git clone
+https://github.com/ashu20122005/Faulty-Calculator
 Open index.html in any modern web browser.
 
 ✨ Future Improvements
